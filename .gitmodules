@@ -1,0 +1,39 @@
+[submodule "2022/Day-13"]
+	path = 2022/Day-13
+	url = ./2022/Day-13
+[submodule "2022/Day-12"]
+	path = 2022/Day-12
+	url = ./2022/Day-12
+[submodule "2022/Day-11"]
+	path = 2022/Day-11
+	url = ./2022/Day-11
+[submodule "2022/Day-10"]
+	path = 2022/Day-10
+	url = ./2022/Day-10
+[submodule "2022/Day-9"]
+	path = 2022/Day-9
+	url = ./2022/Day-9
+[submodule "2022/Day-8"]
+	path = 2022/Day-8
+	url = ./2022/Day-8
+[submodule "2022/Day-7"]
+	path = 2022/Day-7
+	url = ./2022/Day-7
+[submodule "2022/Day-6"]
+	path = 2022/Day-6
+	url = ./2022/Day-6
+[submodule "2022/Day-5"]
+	path = 2022/Day-5
+	url = ./2022/Day-5
+[submodule "2022/Day-4"]
+	path = 2022/Day-4
+	url = ./2022/Day-4
+[submodule "2022/Day-3"]
+	path = 2022/Day-3
+	url = ./2022/Day-3
+[submodule "2022/Day-2"]
+	path = 2022/Day-2
+	url = ./2022/Day-2
+[submodule "2022/Day-1"]
+	path = 2022/Day-1
+	url = ./2022/Day-1
